@@ -1,0 +1,100 @@
+body  {
+    background: radial-gradient(red, transparent);
+    color: red;
+margin: 0px;
+margin-bottom: 50px;
+}
+
+header  {
+    font-size: 36px;
+    color: aliceblue;
+    border-bottom: solid 3px brown;
+    padding: 20px;
+    font-family: "Bungee Tint", sans-serif;
+    font-size: 50px;
+    
+}
+
+
+.chama-video-intro  {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.chama-texto  {
+margin-right: 20px;
+
+}
+
+h2  {
+    font-family: "Eczar", serif;
+    font-size: 35px;
+
+}
+
+p  {
+    font-family: "Stylish", serif;
+    font-size: 36px;
+    
+}
+
+img  {
+height: 200px;
+
+}
+
+.indicacao-filmes  {
+display: flex;
+overflow-x: auto;
+gap: 20px;
+
+}
+
+.sugestoes  {
+padding-left: 20px;
+padding-right: 20px;
+
+}
+
+h3  {
+    font-family: "Bungee Tint", sans-serif;
+    font-size: 40px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+
+.indicacao-filmes img  {
+opacity: 0.5;
+
+}
+
+.indicacao-filmes img:hover  {
+opacity: 1;
+border: solid yellow 4px;
+
+}
+
+
+footer  {
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+    height: 65px;
+}
+
+
+
+
+footer p  {
+    color: brown;
+    font-size: 30;
+    text-align: center;
+    margin-top: 15px
+}
+
+    
